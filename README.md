@@ -30,7 +30,7 @@ Bu proje **jsonplaceholder.typicode.com** web sitesinden /posts end pointi ile a
     3. Liste Uzunluğu Kontrolü Testi
     4. Dinamik Veri Kontrolleri Testi
 
-Yapılmıştır. Testi çalıştırmak için `RestAssuredTest.java` dosyası çalıştırılmalıdır. Konsol çıktısı
+Yapılmıştır. Testi çalıştırmak için [RestfulBookerPostmanApiTest](RestfulBookerPostmanApiTest/) Klasörü içerisindeki `RestAssuredTest.java` dosyası çalıştırılmalıdır. Konsol çıktısı
 ![Rest Assured Test Konsol Çıktısı](Images/RestAssuredScreenShot.png)
 
 ---
