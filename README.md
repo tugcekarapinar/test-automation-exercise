@@ -5,7 +5,7 @@
 Bu proje, **Akakce.com** web sitesi üzerinde otomatik testler gerçekleştirerek temel kullanıcı senaryolarını doğrulamayı amaçlamaktadır.  
 
 
-`AkakceUiTest.java` dosyasında yer alan test senaryosu aşağıdaki adımları içerir:  
+[AkakceUiTest](/src/test/java/AkakceUiTest) klasöründe yer alan  `AkakceUiTest.java` dosyasında yer alan test senaryosu aşağıdaki adımları içerir:  
 
     1. Kullanıcı, **Akakce.com** üzerinde oturum açar.  
     2. **iPhone** ürünlerini aratır ve listeler.
