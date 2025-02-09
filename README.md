@@ -19,7 +19,7 @@ Bu proje, **Akakce.com** web sitesi üzerinde otomatik testler gerçekleştirere
 ## Postman API Test
 Bu proje, **restful-booker.herokuapp.com/apidoc/index.html** web sitesine ait uç noktaları kullanarak Postman üzerinden API testlerini gerçekleştirmeyi amaçlamaktadır. API uç noktalarına yapılacak her çağrı için bir test yazılmıştır.
 
-`RestfulBookerPostmanApiTest` klasörü içerisinde Postman collection ve test sonuçları JSON formatında yer almaktadır.
+[RestfulBookerPostmanApiTest](/RestfulBookerPostmanApiTest) klasörü içerisinde Postman collection ve test sonuçları JSON formatında yer almaktadır.
 
 
 ## Rest Assured Test
