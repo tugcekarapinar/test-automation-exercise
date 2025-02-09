@@ -1,10 +1,8 @@
-# Test Automation Exercise 🚀
+# Test Automation Exercise 🚀🚀
 
 ## Akakce UI Test  
 
 Bu proje, **Akakce.com** web sitesi üzerinde otomatik testler gerçekleştirerek temel kullanıcı senaryolarını doğrulamayı amaçlamaktadır.  
-
-
 [AkakceUiTest](/src/test/java/AkakceUiTest) klasöründe yer alan  `AkakceUiTest.java` dosyasında yer alan test senaryosu aşağıdaki adımları içerir:  
 
     1. Kullanıcı, **Akakce.com** üzerinde oturum açar.  
@@ -13,7 +11,6 @@ Bu proje, **Akakce.com** web sitesi üzerinde otomatik testler gerçekleştirere
     3. Seçtiği ürünü **takip listesine** ekler.  
 
 > **Not:** `testAddFollowList` fonksiyonu içerisindeki `"userName"` ve `"userPassword"` değerleri geçerli giriş bilgileri ile değiştirilmelidir.  
-
 
 
 ## Postman API Test
@@ -33,8 +30,10 @@ Bu proje **jsonplaceholder.typicode.com** web sitesinden /posts end pointi ile a
 Yapılmıştır. Testi çalıştırmak için [RestAssuredTest](/src/test/java/RestAssuredTest) Klasörü içerisindeki `RestAssuredTest.java` dosyası çalıştırılmalıdır. Konsol çıktısı
 ![Rest Assured Test Konsol Çıktısı](Images/RestAssuredScreenShot.png)
 
+
+## Manuel Test Case Çalışması
+Bu projede, **Akakce.com** web sitesi üzerind `Takip listem` özelliği için manuel örnek test case’ler oluşturulmuştur.
+[ManuelTestCases](/ManuelTestCases) klasörü içerisinde  yazılan test caseler .pdf formatında yer almaktadır.
+
+
 ---
-
-
-
-
